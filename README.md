@@ -1,6 +1,11 @@
 ![MASTERHEAD](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
 
-### 👨: About Me :
+
+</a>
+<h2 align="center">
+  👨: About Me 
+</h2>
+ 
 - 🌱 I’m currently doing Common Core at [**42 Porto**](https://www.42porto.com).
 - :mortar_board: Agronomic Engineer graduated at [**Faculdade de Ciências da Universidade do Porto**](https://sigarra.up.pt/fcup/pt/web_page.inicial).
 - 📫 You can reach me at **diogoacmatos92@gmail.com**
@@ -17,8 +22,13 @@
 </a>
 </p>
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left">
+</a>
+<h2 align="center">
+  Skills
+</h2>
+ 
+<br>
+<p align="center">
 <a href='' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC'/></a>
 </a>
 <a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=pYTHON&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
@@ -34,15 +44,12 @@
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MerleneShushi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="animated" />
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MerleneShushi&theme=dark&hide_border=false" alt="animated" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerleneShushi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+</p>
