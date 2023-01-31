@@ -28,3 +28,21 @@
 <a href='' target="_blank"><img alt='Windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=Windows&logoColor=white&labelColor=0078D6&color=0078D6'/></a>
 </p>
 </a>
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+</p> 
