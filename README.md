@@ -3,7 +3,7 @@
 
 </a>
 <h2 align="center">
-  👨: About Me 
+  About Me 👨 
 </h2>
  
 - 🌱 I’m currently doing Common Core at [**42 Porto**](https://www.42porto.com).
@@ -24,7 +24,7 @@
 
 </a>
 <h2 align="center">
-  Skills
+  Skills 🛠
 </h2>
  
 <br>
