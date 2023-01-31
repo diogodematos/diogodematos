@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 👨: About Me :
 - 🌱 I’m currently doing Common Core at [**42 Porto**](https://www.42porto.com).
 - :mortar_board: Agronomic Engineer graduated at [**Faculdade de Ciências da Universidade do Porto**](https://sigarra.up.pt/fcup/pt/web_page.inicial).
 - 📫 You can reach me at **diogoacmatos92@gmail.com**
@@ -15,3 +16,16 @@
 <img src="https://komarev.com/ghpvc/?username=dcarrilh&style=for-the-badge&color=blue"></a>
 </a>
 </p>
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="left">
+<a href='' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC'/></a>
+</a>
+<a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=pYTHON&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
+</a>
+<br />
+<a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=FCC624&color=FCC624'/></a>
+</a>
+<a href='' target="_blank"><img alt='Windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=Windows&logoColor=white&labelColor=0078D6&color=0078D6'/></a>
+</p>
+</a>
