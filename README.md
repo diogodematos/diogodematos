@@ -23,7 +23,6 @@
 </a>
 <a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=pYTHON&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
 </a>
-<br />
 <a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=FCC624&color=FCC624'/></a>
 </a>
 <a href='' target="_blank"><img alt='Windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=Windows&logoColor=white&labelColor=0078D6&color=0078D6'/></a>
