@@ -1,6 +1,8 @@
-![MASTERHEAD](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kq6h76ccjgwy743yi3gyf8c5673nwi0yst4rovk8&rid=giphy.gif&ct=g)
-
-
+</a>
+<h2 align="center">
+<img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/200.webp?cid=ecf05e472dwm8lzbq8gkzo5tcicvm36stkhuopg363hh3b6w&rid=200.webp&ct=g">
+</h2>
+  
 </a>
 <h2 align="center">
   About Me 👨 
