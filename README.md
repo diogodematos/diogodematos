@@ -16,7 +16,7 @@
 <p align="center">
 <a href='mailto:diogoacmatos92@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
-<a href='https://www.linkedin.com/in/diogo-matos-312089245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://www.linkedin.com/in/diogodematos/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </a>
 <a href='https://profile.intra.42.fr/users/dcarrilh' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </a>
@@ -47,11 +47,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MerleneShushi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogodematos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MerleneShushi&theme=dark&hide_border=false" alt="animated" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogodematos&theme=dark&hide_border=false" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerleneShushi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodematos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
 </p>
