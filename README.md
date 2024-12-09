@@ -31,13 +31,16 @@
  
 <br>
 <p align="center">
-<a href='' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC'/></a>
-</a>
-<a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=pYTHON&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
-</a>
-<a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=FCC624&color=FCC624'/></a>
-</a>
-<a href='' target="_blank"><img alt='Windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=Windows&logoColor=white&labelColor=0078D6&color=0078D6'/></a>
+<a href="" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC&color=A8B9CC"/></a>
+<a href="" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=00599C"/></a>
+<a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0&color=3670A0"/></a>
+<a href="" target="_blank"><img alt="Bash Script" src="https://img.shields.io/badge/Bash_Script-100000?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=121011&color=121011"/></a>
+<a href="" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=117AC9&color=117AC9"/></a>
+<a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=4479A1"/></a>
+<a href="" target="_blank"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-100000?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E&color=3ECF8E"/></a>
+<a href="" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624&color=FCC624"/></a>
+<a href="" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6&color=0078D6"/></a>
+<a href="" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=121011&color=121011"/></a>
 </p>
 </a>
 <h2 align="center">
