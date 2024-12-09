@@ -1,7 +1,9 @@
+<!--
 </a>
 <h2 align="center">
 <img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/200.webp?cid=ecf05e472dwm8lzbq8gkzo5tcicvm36stkhuopg363hh3b6w&rid=200.webp&ct=g">
 </h2>
+-->
   
 </a>
 <h2 align="center">
